@@ -12,7 +12,7 @@ exports.lvlnul = () => {
 }
 
 exports.lvlnoon = () => {
-	return`*「❗」LEVEL DI GRUB BELUM DI AKTIFKAN*`
+	return`*「❗」LEVEL DI GRUP BELUM DI AKTIFKAN*`
 }
 
 exports.noregis = () => {
@@ -20,14 +20,14 @@ exports.noregis = () => {
 }
 
 exports.rediregis = () => {
-	return`*NOMOR KAMU SUDAH TERDAFTAR*`
+	return`*NOMORMU SUDAH TERDAFTAR*`
 }
 
 exports.groupo = () => {
-	return`*「❗」GROUP ONLY*`
+	return`*「❗」HANYA UNTUK GRUP*`
 }
 exports.clears = () => {
-	return`*Sukses bosku*`
+	return`*Sukses bang!*`
 }
 exports.levelup = (pushname, sender, getLevelingXp,  getLevel, getLevelingLevel) => {
 	return`
@@ -43,7 +43,7 @@ exports.limitend = (pushname, prefix) => {
 *Limit di reset setiap jam 24:00*
 
 \`\`\`Upgrade Premium Bebas Limit\`\`\`
-\`\`\`➸ 20K : 1 Bulan\`\`\`
+\`\`\`➸ 15K : 1 Bulan\`\`\`
 \`\`\`Jika berminat silahkan hubungi owner\`\`\`
 \`\`\`Kirim perintah : ${prefix}owner\`\`\`
 `
@@ -52,7 +52,7 @@ exports.limitend = (pushname, prefix) => {
 exports.limitcount = (isPrem, limitCounts) => {
 	return`sisa limit anda : ${isPrem ? '9999' : `${db.data.users[m.sender].limit}`}
 
-Upgrade premium bosku, biar bebas gunain bot`
+Upgrade premium yah bang, biar bebas gunain bot tanpa batasan limit hehe`
 }
 
 exports.uangkau = (pushname, sender, uangkau) => {
