@@ -19,46 +19,47 @@ global.doc6 = 'application/vnd.android.package-archive'
 //==============================\
 global.sapi = 'WA MD'
 //===============================\\
-global.wms = '6285791762177' //wm help Pake nomor yng mau pp nya di jadiin Wm
+global.wms = '6285171662264' //wm help Pake nomor yng mau pp nya di jadiin Wm
 autoread = true //jangan di ubah
 global.footer = 'Lenttobd'//ganti
-global.pulsa = "628xxxxx"//ganti
-global.gopay = "628xxx"//ganti
-global.dana = "628xxx"//ganti
-global.paypal = "---" // biarin aja kalau gaada
-global.shopay = "---" // biarin aja kalau gaada
-global.saweria = "---" // biarin aja kalau gaada
-global.sociabus = "---" // biarin aja kalau gaada
-global.bni = "---" // biarin aja kalau gaada
-global.bri = "---" // biarin aja kalau gaada
-global.bankjatim = "---" // biarin aja kalau gaada
-global.jago = "---" // biarin aja kalau gaada
-global.neobank = "---" // biarin aja kalau gaada
-global.packname = 'LENTTOBS WA MD'//nama wm
-global.footer = '©Maslent'//ganti
-global.ovo = "628xxx"//ganti
-global.ownerlen = "Maslent/Lenttobs"//Ubah
-global.owner = ['6212345678910'] //ubh nomor owner hp
-global.ownername = "WA MD" //ubah
-global.ytname = "YT: lenttobs"//ubah
-global.socialm = "IG: vlntncptr"//ubah
-global.location = "Indonesia, Jawatimur, Lumajang"//ubah
-global.ownernomer = "6212345678910"//ubah nomorhp owner
-global.premium = ['6212345678910']//ubah nomor hp premium
-global.nomorcs = '628123456678'//nomormu
-global.botname = 'Bot V23' //ubah
-global.linkz = "Link Gc"//ubah
-global.websitex = "yt mu"//ubah
+global.pulsa = "6285651307830"//ganti
+global.pulsa2 = "6281354060278"//ganti
+global.gopay = "6285651307830"//ganti
+global.dana = "6285651307830"//ganti
+global.QRISBarcode = "https://telegra.ph/Donasi-Melalui-QRIS-2-03-20" // biarin aja kalau gaada
+global.shopeepay = "6285651307830" // biarin aja kalau gaada
+global.saweria = "saweria.com/HafizhFlash" // biarin aja kalau gaada
+global.trakteer = "https://trakteer.id/HafizhFlash22" // biarin aja kalau gaada
+global.bni = "chat owner aja" // biarin aja kalau gaada
+global.bri = "chat owner aja" // biarin aja kalau gaada
+global.linkaja = "6285651307830" // biarin aja kalau gaada
+global.seabank = "chat owner aja" // biarin aja kalau gaada
+global.neobank = "chat owner aja" // biarin aja kalau gaada
+global.packname = 'HaFlazh-BOT'//nama wm
+global.footer = '© Hafizh'//ganti
+global.ovo = "6285651307830"//ganti
+global.ownerlen = "Hafizh/HaFlazhBOT"//Ubah
+global.owner = ['6285651307830'] //ubh nomor owner hp
+global.ownername = "ඞ Hafizh ඞ" //ubah
+global.ytname = "YT: Hafizh Flash"//ubah
+global.socialm = "IG: hfizh22"//ubah
+global.location = "Indonesia, Kalimantan Timur, Bontang"//ubah
+global.ownernomer = "6285651307830"//ubah nomorhp owner
+global.premium = ['6285651307830']//ubah nomor hp premium
+global.nomorcs = '6285651307830'//nomormu
+global.botname = 'HaFlazh-BOT' //ubah
+global.linkz = "https://chat.whatsapp.com/JQTVwyYnQNW0ljAncX2Kpf"//ubah
+global.websitex = "https://www.youtube.com/channel/UCA4lRndgyxYTZWIkjJzkpKg"//ubah
 global.botscript = '-'
 global.themeemoji = "😿"//ubah
 global.packname = "Sticker By"//ubah
-global.author = "Made by Lenttobs"//ubah
-global.wm = "LENTTOBS WHATSAAP MD"//ubah Jadi nama wm
+global.author = "Made by HaFlazh-BOT"//ubah
+global.wm = "HfLzH"//ubah Jadi nama wm
 global.sessionName = 'session'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
 global.mess = {
-    success: 'Piye?!', 
+    success: 'Sukses Masbro!', 
     admin: 'This feature could be used by admins only!',
     botAdmin: 'Bot Must Be Admin First!',
     premime: 'Premium Special Features If You Want to Register Type Rent',
@@ -81,7 +82,7 @@ global.err4r = fs.readFileSync("./Maslent/pplent/maslent.jpg")
 global.thumb = fs.readFileSync("./Maslent/pplent/maslent.jpg")
 global.limitawal = {
     premium: "Infinity",
-    free: 2,
+    free: 10,
     monayawal: 1000
 }
    global.rpg = {
